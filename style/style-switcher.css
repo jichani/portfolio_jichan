@@ -15,6 +15,7 @@
 .style-switcher.open {
   transform: translateX(0);
 }
+
 .style-switcher .s-icon {
   position: absolute;
   height: 40px;
@@ -37,7 +38,7 @@
 
 .style-switcher .style-switcher-toggler {
   top: 0;
-} 
+}
 
 .style-switcher .day-night {
   top: 55px;
@@ -77,10 +78,9 @@
 }
 
 .style-switcher .color-4 {
-  background: #1854b4;
+  background: #4279BC;
 }
 
 .style-switcher .color-5 {
-  background: #f021b2;
+  background: #3eaf0e;
 }
-
